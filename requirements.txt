@@ -1,0 +1,13 @@
+torch
+transformers
+bitsandbytes
+wandb
+accelerate
+datasets
+peft
+scipy
+deepspeed
+langchain
+trl
+rich
+tdqm
