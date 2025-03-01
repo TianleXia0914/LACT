@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-<img src="(figure/scheme.jpg)" width=95%>
+<img src="(figure/scheme.png)" width=95%>
 <p>
 
 <br>
