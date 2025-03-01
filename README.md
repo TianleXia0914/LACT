@@ -13,9 +13,9 @@
   </p>
 </div>
 
-<p align="center">
+
 ![image](figure/scheme.png)
-<p>
+
 
 <br>
 
